@@ -1,4 +1,8 @@
 # FlightRisingTool
+**Hi all, I'm AFK and will not return in short time. Feel free to fork this repo.**
+
+**我从FR A掉了，如果实在有需求可以去群里踢我:( **
+
 **Hi all, I'm back again. Feel free to contact me by Github/Fr messages for suggestions/bugs/requests. :D**
 
 **If you want to add new gene, please refer to [How-To-Add-New-Gene.md](How-To-Add-New-Gene.md)**
