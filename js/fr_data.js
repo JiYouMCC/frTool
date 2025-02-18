@@ -121,7 +121,7 @@ FRData.ModernSecondaryGeneList = [
     ['Lode', 'Rare', ''],
     ['Sarcophagus', 'Rare', '1200 G'],
     ['Shimmer', 'Rare', '1200 G']
-]
+],
 
 FRData.ModernTertiaryGeneList = [
     ['Basic', 'Plentiful', '10000 T'],
