@@ -161,7 +161,7 @@ FRData.ModernTertiaryGeneList = [
     ['Koi', 'Rare', ''],
     ['Opal', 'Rare', '1200 G'],
     ['Soap', 'Rare', ''],
-    ['Stained', 'Rare', '1200 G']
+    ['Stained', 'Rare', '1200 G'],
     ['Wish', 'Rare', '']
 ]
 
