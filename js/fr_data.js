@@ -911,6 +911,7 @@ FRData.ModernBreedList = [
     ['Bogsneak', 'Uncommon',['Plants','Meat']],
     ['Skydancer', 'Uncommon', ['Plants', 'Insects']],
     ['Obelisk', 'Uncommon', ['Insects', 'Seafood']],
+    ['Fathom', 'Uncommon', ['Plants', 'Seafood']],
 
     ['Imperial', 'Limited', ['Insects', 'Meat', 'Seafood', 'Plants']],
     ['Nocturne', 'Limited', ['Meat', 'Insects']],
